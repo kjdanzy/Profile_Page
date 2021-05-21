@@ -193,11 +193,12 @@ nav ul li {
 
 .connImageDiv {
     width: 300px;
-    
 }
 
 .connImage {
     width: 60px;
+    border-radius: 50%;border-radius: 50%;
+
 }
 
 .connName {
@@ -251,6 +252,7 @@ nav ul li {
 
 .yourConnectionImage {
     width: 60px;
+    border-radius: 50%;
 }
 
 .yourConnectionName {
